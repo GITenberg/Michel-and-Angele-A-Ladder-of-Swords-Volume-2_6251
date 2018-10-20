@@ -1,5 +1,5 @@
 _repo: Michel-and-Angele-A-Ladder-of-Swords-Volume-2_6251
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Huguenots -- Fiction'
 - !lcsh 'Jersey (Channel Islands) -- Fiction'
 - !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- GITenberg
 title: Michel and Angele [A Ladder of Swords] — Volume 2
 url: http://www.gutenberg.org/ebooks/6251
